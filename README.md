@@ -12,4 +12,4 @@ Then Create a new directory named 'prob' and place both files there. Then enter 
 setwd("/your_path_to_prob/prob/..") # position yourself on prob's parent directory, finally
 runApp("prob", launch.browser=1) # run application on default browser
 
-To see the slidify deck click on http://rpubs.com/chuitosun/193510
+To see the slidify deck click on http://rpubs.com/chuitosun/193576
